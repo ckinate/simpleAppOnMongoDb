@@ -1,0 +1,12 @@
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\bin\Debug\net5.0\Play.Common.dll
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.csproj.AssemblyReference.cache
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.dll
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\refint\Play.Common.dll
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\Play.Common.pdb
+C:\AllFiles\Microservices\PlayCatalogService\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
